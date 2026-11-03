@@ -1,53 +1,53 @@
 # 🎄 Christmas Lights
 
-**A cozy animated Christmas garland for your Windows desktop.**  
-**Уютная анимированная новогодняя гирлянда для рабочего стола Windows.**
-
-Christmas Lights adds a colorful, customizable garland along the top edge of your screen. Choose the bulb shape, colors, animation, and music-reactive effects — or simply enjoy a gentle festive glow.
+**Уютная анимированная новогодняя гирлянда для рабочего стола Windows.**  
+**A cozy animated Christmas garland for your Windows desktop.**
 
 Christmas Lights украшает верхнюю часть экрана настраиваемой гирляндой. Выбирайте форму лампочек, цвета, анимацию и реакцию на музыку или просто наслаждайтесь мягким праздничным светом.
 
-## ✨ Features / Возможности
+Christmas Lights adds a colorful, customizable garland along the top edge of your screen. Choose bulb shapes, colors, animation and music-reactive effects — or simply enjoy a gentle festive glow.
 
-- 💡 Different glass-bulb shapes, including stars and hearts / Формы лампочек, включая звёзды и сердечки.
-- 🎨 Color themes and animated lighting / Цветовые темы и анимация.
-- 🎵 Audio Wave: light pulses that spread out from the center in sync with music / Волны света от центра в такт музыке.
-- 🖱️ Mouse interaction and adjustable garland sag / Взаимодействие с курсором и настройка провисания.
-- 🖥️ Click-through overlay and configurable fullscreen behavior / Не мешает нажимать на окна, настраиваемое поведение в полноэкранном режиме.
-- 🌍 Russian and English interface / Интерфейс на русском и английском.
-- 🚀 Optional startup with Windows / Необязательный автозапуск с Windows.
+## ✨ Возможности / Features
 
-## 📥 Download / Скачать
+- 💡 Формы лампочек, включая звёзды и сердечки / Glass-bulb shapes, including stars and hearts.
+- 🎨 Цветовые темы и анимация / Color themes and animated lighting.
+- 🎵 Audio Wave: волны света расходятся от центра в такт музыке / Light pulses spread from the center in sync with music.
+- 🖱️ Взаимодействие с курсором и настройка провисания / Mouse interaction and adjustable garland sag.
+- 🖥️ Гирлянда не мешает нажимать на окна; настраиваемое поведение при полноэкранном режиме / Click-through overlay and configurable fullscreen behavior.
+- 🌍 Интерфейс на русском и английском / Russian and English interface.
+- 🚀 Необязательный автозапуск с Windows / Optional startup with Windows.
 
-**First release coming soon. / Первый релиз скоро появится.**
+## 📥 Скачать / Download
 
-When the release is published, open the **Releases** section of this repository and download **`ChristmasLights.exe`**.
+**Первый релиз скоро появится. / First release coming soon.**
 
-Когда версия будет опубликована, откройте раздел **Releases** этого репозитория и скачайте **`ChristmasLights.exe`**.
+После публикации откройте раздел **[Releases](https://github.com/Horizongit228/ChristmasLights/releases)** и скачайте **`ChristmasLights.exe`**.
 
-The planned standalone release targets **Windows 10 (version 2004 or later) / Windows 11, x64** and will not require installing .NET separately.
+When the first release is published, open **[Releases](https://github.com/Horizongit228/ChristmasLights/releases)** and download **`ChristmasLights.exe`**.
 
-Планируемая самостоятельная версия предназначена для **Windows 10 (версия 2004 или новее) / Windows 11, x64**; отдельно устанавливать .NET не потребуется.
+Планируемый самостоятельный выпуск предназначен для **Windows 10 / Windows 11, x64**. Отдельно устанавливать .NET не потребуется.
 
-## ▶️ Run / Запуск
+The planned self-contained release targets **Windows 10 / Windows 11, x64**. A separate .NET installation will not be required.
 
-1. Download `ChristmasLights.exe` from Releases / Скачайте `ChristmasLights.exe` из Releases.
-2. Place it in a folder of your choice / Поместите файл в удобную папку.
-3. Run the file / Запустите программу.
-4. Use the tray icon to open settings or exit / Управляйте настройками и выходом через значок в трее.
+## ▶️ Запуск / Run
 
-> **Windows security notice / Предупреждение Windows:** Early releases may be unsigned and Windows SmartScreen may display an unknown-publisher warning. Only download from this repository's official Releases page.
+1. Скачайте `ChristmasLights.exe` из Releases / Download `ChristmasLights.exe` from Releases.
+2. Поместите файл в удобную папку / Place the file in a folder of your choice.
+3. Запустите программу / Run the application.
+4. Откройте настройки или выйдите через значок в системном трее / Use the system tray icon to open settings or exit.
+
+> **Предупреждение Windows / Windows security notice:** Первые версии могут быть без цифровой подписи, поэтому Windows SmartScreen может предупредить о неизвестном издателе. Загружайте программу только из официального раздела Releases этого репозитория.
 >
-> Первые версии могут быть без цифровой подписи, поэтому Windows SmartScreen может предупредить о неизвестном издателе. Скачивайте программу только из официального раздела Releases этого репозитория.
+> Early releases may be unsigned, so Windows SmartScreen may show an unknown-publisher warning. Download only from this repository's official Releases page.
 
-## 🐛 Bugs and suggestions / Ошибки и предложения
+## 🐛 Ошибки и предложения / Bugs and suggestions
 
-Please use the **Issues** tab to report bugs or suggest improvements. Include your Windows version and steps to reproduce the problem.
+Сообщайте об ошибках и предлагайте улучшения во вкладке **[Issues](https://github.com/Horizongit228/ChristmasLights/issues)**. По возможности укажите версию Windows и шаги для воспроизведения ошибки.
 
-Сообщайте об ошибках и предлагайте улучшения во вкладке **Issues**. По возможности укажите версию Windows и шаги для воспроизведения ошибки.
+Please use **[Issues](https://github.com/Horizongit228/ChristmasLights/issues)** to report bugs or suggest improvements. Include your Windows version and steps to reproduce the problem.
 
-## 🔒 Source code / Исходный код
+## 🔒 Исходный код / Source code
 
-The application source code is **not published in this repository at this stage**. This repository is intended for downloads, documentation and user feedback.
+Исходный код приложения **пока не опубликован**. Этот репозиторий предназначен для загрузки программы, документации и отзывов пользователей.
 
-Исходный код приложения **пока не опубликован**. Репозиторий предназначен для скачивания программы, документации и отзывов пользователей.
+The application source code is **not published at this stage**. This repository is intended for downloads, documentation, and user feedback.
