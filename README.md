@@ -1,53 +1,73 @@
-# 🎄 Christmas Lights
+# Christmas Lights
 
-**Уютная анимированная новогодняя гирлянда для рабочего стола Windows.**  
-**A cozy animated Christmas garland for your Windows desktop.**
+Анимированная новогодняя гирлянда для рабочего стола Windows.
 
-Christmas Lights украшает верхнюю часть экрана настраиваемой гирляндой. Выбирайте форму лампочек, цвета, анимацию и реакцию на музыку или просто наслаждайтесь мягким праздничным светом.
+[Русский](#русский) · [English](#english)
 
-Christmas Lights adds a colorful, customizable garland along the top edge of your screen. Choose bulb shapes, colors, animation and music-reactive effects — or simply enjoy a gentle festive glow.
+## Русский
 
-## ✨ Возможности / Features
+Christmas Lights добавляет вдоль верхней границы экрана гирлянду со стеклянными лампочками. Цвет, форма и анимация настраиваются в приложении. Гирлянда не перехватывает нажатия мыши и управляется через значок в системном трее.
 
-- 💡 Формы лампочек, включая звёзды и сердечки / Glass-bulb shapes, including stars and hearts.
-- 🎨 Цветовые темы и анимация / Color themes and animated lighting.
-- 🎵 Audio Wave: волны света расходятся от центра в такт музыке / Light pulses spread from the center in sync with music.
-- 🖱️ Взаимодействие с курсором и настройка провисания / Mouse interaction and adjustable garland sag.
-- 🖥️ Гирлянда не мешает нажимать на окна; настраиваемое поведение при полноэкранном режиме / Click-through overlay and configurable fullscreen behavior.
-- 🌍 Интерфейс на русском и английском / Russian and English interface.
-- 🚀 Необязательный автозапуск с Windows / Optional startup with Windows.
+### Возможности
 
-## 📥 Скачать / Download
+- Пять форм лампочек: классическая, шар, свеча, звезда и сердце.
+- Готовые цветовые темы, настройка насыщенности и яркости, переливание цветов и мерцание.
+- **Audio Wave:** световые импульсы расходятся от центра гирлянды в такт музыке.
+- Автоматический подбор количества лампочек по ширине экрана или ручная настройка от 16 до 32.
+- Настройка высоты, провисания провода и взаимодействия с курсором.
+- Управление отображением в полноэкранном режиме.
+- Интерфейс на русском и английском, необязательный автозапуск с Windows и создание ярлыка на рабочем столе.
 
-**Первый релиз скоро появится. / First release coming soon.**
+### Скачать и запустить
 
-После публикации откройте раздел **[Releases](https://github.com/Horizongit228/ChristmasLights/releases)** и скачайте **`ChristmasLights.exe`**.
+**Статус: версия 1.0 готовится к публикации.**
 
-When the first release is published, open **[Releases](https://github.com/Horizongit228/ChristmasLights/releases)** and download **`ChristmasLights.exe`**.
+Готовый файл появится в разделе [Releases](https://github.com/Horizongit228/ChristmasLights/releases). Для запуска:
 
-Планируемый самостоятельный выпуск предназначен для **Windows 10 / Windows 11, x64**. Отдельно устанавливать .NET не потребуется.
+1. Скачайте `ChristmasLights.exe` из последнего релиза.
+2. Поместите файл в постоянную папку и запустите двойным щелчком.
+3. Откройте настройки через значок Christmas Lights в системном трее.
 
-The planned self-contained release targets **Windows 10 / Windows 11, x64**. A separate .NET installation will not be required.
+**Системные требования:** Windows 10 (сборка 19041 или новее) либо Windows 11, 64-разрядная версия. EXE планируется распространять как самостоятельный файл — установка .NET не потребуется.
 
-## ▶️ Запуск / Run
+Первые выпуски могут быть без цифровой подписи. Windows SmartScreen может показать предупреждение о неизвестном издателе. Загружайте программу только из официального раздела Releases.
 
-1. Скачайте `ChristmasLights.exe` из Releases / Download `ChristmasLights.exe` from Releases.
-2. Поместите файл в удобную папку / Place the file in a folder of your choice.
-3. Запустите программу / Run the application.
-4. Откройте настройки или выйдите через значок в системном трее / Use the system tray icon to open settings or exit.
+### Обратная связь
 
-> **Предупреждение Windows / Windows security notice:** Первые версии могут быть без цифровой подписи, поэтому Windows SmartScreen может предупредить о неизвестном издателе. Загружайте программу только из официального раздела Releases этого репозитория.
->
-> Early releases may be unsigned, so Windows SmartScreen may show an unknown-publisher warning. Download only from this repository's official Releases page.
+Для сообщений об ошибках и предложений используйте [GitHub Issues](https://github.com/Horizongit228/ChristmasLights/issues). Укажите версию Windows, описание проблемы и, если возможно, шаги для её повторения.
 
-## 🐛 Ошибки и предложения / Bugs and suggestions
+## English
 
-Сообщайте об ошибках и предлагайте улучшения во вкладке **[Issues](https://github.com/Horizongit228/ChristmasLights/issues)**. По возможности укажите версию Windows и шаги для воспроизведения ошибки.
+Christmas Lights adds a customizable strand of animated glass bulbs along the top edge of the Windows desktop. Adjust the colors, bulb shapes and lighting effects without interfering with mouse clicks. The application is controlled from the system tray.
 
-Please use **[Issues](https://github.com/Horizongit228/ChristmasLights/issues)** to report bugs or suggest improvements. Include your Windows version and steps to reproduce the problem.
+### Features
 
-## 🔒 Исходный код / Source code
+- Five bulb shapes: classic, globe, candle, star and heart.
+- Color themes, brightness and saturation controls, running colors and twinkling effects.
+- **Audio Wave:** light pulses move outward from the center in response to music.
+- Automatic bulb count based on screen width, or manual control from 16 to 32 bulbs.
+- Adjustable vertical position, cable sag and cursor interaction.
+- Configurable behavior in fullscreen applications.
+- Russian and English interface, optional Windows startup and desktop shortcut creation.
 
-Исходный код приложения **пока не опубликован**. Этот репозиторий предназначен для загрузки программы, документации и отзывов пользователей.
+### Download and run
 
-The application source code is **not published at this stage**. This repository is intended for downloads, documentation, and user feedback.
+**Status: version 1.0 is being prepared for release.**
+
+The executable will be available under [Releases](https://github.com/Horizongit228/ChristmasLights/releases):
+
+1. Download `ChristmasLights.exe` from the latest release.
+2. Save it in a permanent folder and double-click to run.
+3. Open the application settings from its system tray icon.
+
+**Requirements:** Windows 10 (build 19041 or later) or Windows 11, x64. The planned self-contained EXE does not require a separate .NET installation.
+
+Early releases may be unsigned, so Windows SmartScreen might show an unknown-publisher warning. Only download from the official Releases page.
+
+### Feedback
+
+Report bugs and suggest improvements through [GitHub Issues](https://github.com/Horizongit228/ChristmasLights/issues). Include your Windows version and steps to reproduce the issue when possible.
+
+---
+
+**Source code:** The application source code is not currently published in this repository. This repository provides downloads, documentation and issue tracking.
