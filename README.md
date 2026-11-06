@@ -17,7 +17,6 @@
 
 </div>
 
-> [!IMPORTANT]
 > [!TIP]
 > 🎉 **Christmas Lights v1.3.0 уже вышла!** [Скачать актуальную версию](https://github.com/Horizongit228/ChristmasLights/releases/download/v1.3.0/ChristmasLights.exe) · [Страница релиза](https://github.com/Horizongit228/ChristmasLights/releases/tag/v1.3.0). Предыдущий выпуск [v1.0.0](https://github.com/Horizongit228/ChristmasLights/releases/tag/v1.0.0) по-прежнему доступен.
 
@@ -96,30 +95,72 @@ Get-FileHash .\ChristmasLights.exe -Algorithm SHA256
 
 ## 🌍 English
 
-**Christmas Lights** brings colorful, customizable fairy lights to the top of your Windows desktop. Enjoy subtle holiday ambience or light waves reacting to your music.
+### ✨ A little garland. A lot of holiday magic.
 
-### What's new in v1.3
+**Christmas Lights** decorates the top edge of your Windows desktop with beautiful fairy lights that stay out of your way and can dance to music. Choose your bulbs, create custom palettes, and set the mood — from a soft, cozy glow to vibrant rhythm-driven light waves.
 
-- **Audio Wave 3.0** — rhythm-aware light waves with Classic fallback for videos and fullscreen apps.
-- **LightCast** — soft ambient glow around bulbs.
-- **CL Studio** — paint individual bulbs, mirror your patterns, make gradients and save custom designs.
-- **Color Lab** — per-color brightness and saturation, HEX controls, import/export via JSON.
-- **Infinity Garland** — coordinated multi-monitor overlays and continuous light waves.
-- **Aurora UI** — refined dark interface, color picker and system-tray controls.
-- **Lighting modes** — Twinkle, Wave, Breathe, Sparkles and Running Colors.
-- **Safeguards** — backup recovery for settings and designs.
+### 💜 What's new in v1.3
 
-Choose from **Classic, Globe, Candle, Star and Heart** bulbs.
+| | Features |
+| :---: | --- |
+| 🎵 | **Audio Wave 3.0** — music-reactive light pulses, with automatic Classic fallback for videos and fullscreen apps. |
+| 🌟 | **LightCast** — soft, colorful halos around each bulb for a more natural, atmospheric glow. |
+| 🎨 | **CL Studio** — paint bulbs individually with a brush, eraser or color picker; use mirror painting, gradients and ready-made patterns. |
+| 🌈 | **Color Lab** — adjust brightness and saturation **for each palette color separately**, edit HEX values, and keep your own designs. |
+| 🖥️ | **Infinity Garland** — one continuous garland across multiple displays; on a single monitor, light waves spread outward from the center. |
+| ✨ | **Aurora UI** — a redesigned dark interface, custom color picker and convenient system-tray controls. |
+| 💡 | **Animated lighting modes** — Twinkle, Breathe, Wave, Sparkles and Running Colors. |
+| 💾 | **Designs & backups** — JSON import/export and backup recovery if settings or designs become damaged. |
 
-### Download
+Choose from five bulb shapes: **Classic · Globe · Candle · Star · Heart**. You can also adjust cable sag, screen position, glow intensity, launch at Windows startup, and behavior around other windows.
 
-**[⬇️ Download Christmas Lights v1.3.0 EXE](https://github.com/Horizongit228/ChristmasLights/releases/download/v1.3.0/ChristmasLights.exe)** · [All releases](https://github.com/Horizongit228/ChristmasLights/releases)
+### ⬇️ Download Christmas Lights
 
-> 🎉 **v1.3.0 is released and available for Windows.** Download the EXE from the [official GitHub release](https://github.com/Horizongit228/ChristmasLights/releases/tag/v1.3.0). The older [v1.0.0](https://github.com/Horizongit228/ChristmasLights/releases/tag/v1.0.0) remains available.
+**[🎄 Download Christmas Lights v1.3.0 (EXE)](https://github.com/Horizongit228/ChristmasLights/releases/download/v1.3.0/ChristmasLights.exe)** · [All releases](https://github.com/Horizongit228/ChristmasLights/releases)
 
-The app targets **Windows 10 (build 19041+) / Windows 11, x64**. Published portable EXEs include the .NET runtime. Audio processing and configuration storage are local.
+**Current release — v1.3.0:** [official release page](https://github.com/Horizongit228/ChristmasLights/releases/tag/v1.3.0).
 
-For issues and ideas, use [GitHub Issues](https://github.com/Horizongit228/ChristmasLights/issues). Read the [v1.3 release notes](RELEASE_NOTES_v1.3.0.md).
+Under **Assets**, download the ready-to-run `ChristmasLights.exe`. Use the official release assets rather than GitHub's automatically generated source-code archives.
+
+**How to get started:**
+1. Download `ChristmasLights.exe` from the published release (or the portable ZIP, if offered).
+2. If you downloaded a ZIP, extract it first. Then double-click `ChristmasLights.exe`.
+3. Open settings, control the audio mode, and exit through the **system tray** icon.
+
+| Requirement | Details |
+| --- | --- |
+| Operating system | Windows 10 (build 19041+) or Windows 11 |
+| Architecture | x64 |
+| Package | Portable, self-contained EXE |
+| Separate .NET installation | Not needed for the published portable EXE |
+| Technology | C# / WPF / .NET 10 |
+
+### 🆕 Version comparison
+
+| Feature | v1.0.0 | v1.3.0 |
+| --- | :---: | :---: |
+| Fairy lights on top of windows | ✅ | ✅ |
+| Five bulb shapes | ✅ | ✅ |
+| Basic audio-reactive lighting | ✅ | ✅ |
+| LightCast | — | ✅ |
+| CL Studio and custom designs | — | ✅ |
+| Individual color adjustments | — | ✅ |
+| Continuous multi-monitor garland | — | ✅ |
+| JSON backup recovery | — | ✅ |
+
+**Note:** The features in the v1.3.0 column belong to the newer release and **are not included in the older v1.0.0 download**.
+
+### 🔐 Security & privacy
+
+Audio is analyzed **locally** to drive the lighting effects; no account or cloud service is required. Settings and saved designs are stored on your computer. The executable may not be digitally signed, so download it only from official GitHub Releases and check its SHA-256 checksum when one is provided.
+
+Verify the SHA-256 hash in PowerShell:
+
+```powershell
+Get-FileHash .\ChristmasLights.exe -Algorithm SHA256
+```
+
+Found a bug or have an idea? [Open an issue](https://github.com/Horizongit228/ChristmasLights/issues). Read the [v1.3.0 release notes](RELEASE_NOTES_v1.3.0.md).
 
 ---
 
