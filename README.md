@@ -6,12 +6,6 @@
 <em>Bring a little holiday magic to your Windows desktop.</em></p>
 
 <p>
-  <img alt="Windows 10 / 11" src="https://img.shields.io/badge/Windows-10%20%2F%2011-1685D4?style=for-the-badge&amp;logo=windows11&amp;logoColor=white"/>
-  <img alt="C# WPF" src="https://img.shields.io/badge/C%23-WPF-7755B8?style=for-the-badge&amp;logo=dotnet&amp;logoColor=white"/>
-  <img alt="v1.3 in preparation" src="https://img.shields.io/badge/v1.3-Preparing%20release-F0B96E?style=for-the-badge"/>
-</p>
-
-<p>
   <a href="https://github.com/Horizongit228/ChristmasLights/releases"><strong>⬇️ Скачать / Download</strong></a>
   &nbsp;·&nbsp;
   <a href="https://github.com/Horizongit228/ChristmasLights/issues">🐛 Сообщить об ошибке</a>
@@ -77,7 +71,6 @@
 | Гирлянда поверх окон | ✅ | ✅ |
 | 5 форм лампочек | ✅ | ✅ |
 | Основная реакция на звук | ✅ | ✅ |
-| Audio Wave 3.0 и автообработка видео | — | ✅ |
 | LightCast | — | ✅ |
 | CL Studio и собственные дизайны | — | ✅ |
 | Индивидуальная настройка цветов | — | ✅ |
