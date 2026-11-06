@@ -1,126 +1,135 @@
-# 🎄 Christmas Lights
+<div align="center">
 
-**Сделай рабочий стол Windows немного уютнее.** ❄️  
-*Bring a little winter magic to your Windows desktop.*
+<h1>🎄 Christmas Lights <sub>v1.3</sub></h1>
 
-**[Скачать v1.0.0](https://github.com/Horizongit228/ChristmasLights/releases/download/v1.0.0/ChristmasLights.exe)** · [Все релизы](https://github.com/Horizongit228/ChristmasLights/releases) · [Сообщить об ошибке](https://github.com/Horizongit228/ChristmasLights/issues)
+<p><strong>Тёплый свет на твоём рабочем столе.</strong><br/>
+<em>Bring a little holiday magic to your Windows desktop.</em></p>
 
-[Русский](#русский) · [English](#english)
+<p>
+  <img alt="Windows 10 / 11" src="https://img.shields.io/badge/Windows-10%20%2F%2011-1685D4?style=for-the-badge&amp;logo=windows11&amp;logoColor=white"/>
+  <img alt="C# WPF" src="https://img.shields.io/badge/C%23-WPF-7755B8?style=for-the-badge&amp;logo=dotnet&amp;logoColor=white"/>
+  <img alt="v1.3 in preparation" src="https://img.shields.io/badge/v1.3-Preparing%20release-F0B96E?style=for-the-badge"/>
+</p>
+
+<p>
+  <a href="https://github.com/Horizongit228/ChristmasLights/releases"><strong>⬇️ Скачать / Download</strong></a>
+  &nbsp;·&nbsp;
+  <a href="https://github.com/Horizongit228/ChristmasLights/issues">🐛 Сообщить об ошибке</a>
+  &nbsp;·&nbsp;
+  <a href="https://github.com/Horizongit228/ChristmasLights/tree/release/v1.3-preparation">🛠️ Подготовка v1.3</a>
+</p>
+
+<p><a href="#-русский">Русский</a> · <a href="#-english">English</a> · <a href="#-сравнение-версий">v1.0 vs v1.3</a></p>
+
+</div>
+
+> [!IMPORTANT]
+> **v1.3 готовится к публикации.** Заголовок проекта уже обновлён, но публичный EXE v1.3 ещё не загружен и не прошёл окончательную проверку на Windows. Сейчас доступна проверенная опубликованная **[v1.0.0](https://github.com/Horizongit228/ChristmasLights/releases/tag/v1.0.0)**. Новая версия появится на странице [Releases](https://github.com/Horizongit228/ChristmasLights/releases), когда будет готова.
 
 ---
 
-## Русский
+## 🇷🇺 Русский
 
-Christmas Lights — небольшая новогодняя гирлянда, которая располагается вдоль верхнего края экрана. Выбирай формы и цвета лампочек, настраивай движение и включай световые волны в такт музыке. Гирлянда не перехватывает нажатия мыши и управляется через системный трей.
+### ✨ Маленькая гирлянда. Большое настроение.
 
-### ✨ Возможности v1.0
+**Christmas Lights** — украшение для Windows: живая гирлянда вдоль верхнего края экрана, которая не мешает работе и может реагировать на музыку. Выбирай лампочки, создавай собственные палитры и настраивай атмосферу от спокойного уютного свечения до световых волн в такт музыке.
 
-- **5 форм лампочек:** классическая, шар, свеча, звезда и сердце
-- Цветовые темы, регулировка **яркости и насыщенности**, переливы и мерцание
-- **Audio Wave:** световые импульсы расходятся от центра гирлянды в ответ на звук
-- Автоматическое количество лампочек по ширине экрана или ручной выбор (16–32)
-- Настройка положения, провисания провода и реакции на курсор
-- Настраиваемое поведение поверх полноэкранных приложений
-- Русский и английский интерфейс, автозапуск с Windows, ярлык на рабочем столе
+### 💜 Что нового в v1.3
 
-### ⬇️ Скачать и запустить
+| | Возможности |
+| :---: | --- |
+| 🎵 | **Audio Wave 3.0** — световые импульсы под музыку, с автоматическим переключением на классическую реакцию для видео и полноэкранных приложений. |
+| 🌟 | **LightCast** — мягкие цветные ореолы вокруг лампочек, создающие ощущение настоящего света. |
+| 🎨 | **CL Studio** — раскрашивание каждой лампочки, кисть, ластик, пипетка, зеркальное рисование, градиенты и готовые узоры. |
+| 🌈 | **Color Lab** — настройка яркости и насыщенности **отдельно для каждого цвета**, HEX и библиотека собственных дизайнов. |
+| 🖥️ | **Infinity Garland** — гирлянда на нескольких экранах со сквозными световыми волнами; на одном мониторе волны идут от центра. |
+| ✨ | **Aurora UI** — обновлённый тёмный интерфейс, собственный цветовой круг, удобное меню в системном трее. |
+| 💡 | **Живые режимы** — мерцание, дыхание, световая волна, искры и бегущие цвета. |
+| 💾 | **Сохранение дизайнов** — импорт/экспорт JSON и резервные копии настроек на случай повреждения данных. |
 
-**[Скачать ChristmasLights.exe — v1.0.0](https://github.com/Horizongit228/ChristmasLights/releases/download/v1.0.0/ChristmasLights.exe)**
+Пять форм лампочек: **классика · шар · свеча · звезда · сердце**. Можно настроить провисание провода, положение, силу свечения, автозапуск и поведение при работе с окнами.
 
-1. Скачай файл из официального релиза.
-2. Сохрани его в постоянной папке и запусти двойным щелчком.
-3. Открывай настройки и выходи из приложения через значок в **системном трее**.
+### ⬇️ Скачать Christmas Lights
+
+**[Все выпуски / GitHub Releases](https://github.com/Horizongit228/ChristmasLights/releases)**
+
+**Пока доступна v1.0.0:** [скачать ChristmasLights.exe](https://github.com/Horizongit228/ChristmasLights/releases/download/v1.0.0/ChristmasLights.exe).
+
+Как только релиз v1.3 будет опубликован, он появится на той же странице. Для Windows-файла рекомендуется скачивать **portable ZIP или EXE из официальных Releases**, а не архив исходников GitHub.
+
+**Как запустить:**
+1. Скачай `ChristmasLights.exe` или portable ZIP из опубликованного релиза.
+2. Распакуй ZIP, если скачал архив, и запусти `ChristmasLights.exe`.
+3. Настройки, управление звуком и выход находятся в **системном трее**.
 
 | Требование | Значение |
 | --- | --- |
-| ОС | Windows 10 (сборка 19041+) или Windows 11 |
+| ОС | Windows 10 (19041+) или Windows 11 |
 | Архитектура | x64 |
 | Формат | Portable, self-contained EXE |
-| Размер | 73,01 МиБ |
-| .NET | Устанавливать отдельно не нужно |
+| Дополнительная установка .NET | Для опубликованного portable EXE не нужна |
+| Исходная платформа | C# / WPF / .NET 10 |
 
-### 🔐 Безопасность и целостность
+### 🆕 Сравнение версий
 
-SHA-256 опубликованного `ChristmasLights.exe`:
+| Возможность | v1.0.0 | v1.3 (готовится) |
+| --- | :---: | :---: |
+| Гирлянда поверх окон | ✅ | ✅ |
+| 5 форм лампочек | ✅ | ✅ |
+| Основная реакция на звук | ✅ | ✅ |
+| Audio Wave 3.0 и автообработка видео | — | ✅ |
+| LightCast | — | ✅ |
+| CL Studio и собственные дизайны | — | ✅ |
+| Индивидуальная настройка цветов | — | ✅ |
+| Сквозная гирлянда на нескольких экранах | — | ✅ |
+| Резервное восстановление JSON | — | ✅ |
 
-```text
-00d072d5f05b1123c6e6005a221ad9030c2ca908c9130bc6b319d7d7db40776e
-```
+**Важное уточнение:** колонка v1.3 описывает разработанную версию, ещё проходящую финальное тестирование; эти функции **не входят в публичную v1.0.0**.
 
-Проверить файл в PowerShell:
+### 🔐 Безопасность и конфиденциальность
 
-```powershell
-Get-FileHash .\ChristmasLights.exe -Algorithm SHA256
-```
+Аудио анализируется **локально** для световых эффектов; программе не нужен аккаунт или облачный сервис. Настройки и дизайны хранятся на компьютере. Приложение может быть без цифровой подписи: скачивай EXE только из официального GitHub Releases и сверяй SHA-256, если он указан.
 
-Сравни хеш с указанным выше. Первый выпуск может быть без цифровой подписи, поэтому Windows SmartScreen иногда предупреждает о неизвестном издателе. Загружай EXE только с официальной страницы релиза.
-
-### 📌 Статус и обратная связь
-
-- **v1.0.0 опубликована** — скачать можно по ссылке выше.
-- Текущая версия гирлянды рассчитана прежде всего на **основной монитор**.
-- Проект развивается: новые функции пока находятся в разработке и **не входят в загрузку v1.0.0**. Дата следующего стабильного выпуска не объявлена.
-- Нашёл ошибку или придумал улучшение? Открой [GitHub Issue](https://github.com/Horizongit228/ChristmasLights/issues).
-
-[Подробные заметки релиза v1.0.0](RELEASE_NOTES_v1.0.0.md)
-
----
-
-## English
-
-Christmas Lights is a cozy, customizable holiday garland along the top edge of your Windows desktop. Choose bulb styles and colors, customize animations, and watch light pulses react to audio. The overlay is click-through, and controls live in the system tray.
-
-### ✨ Features in v1.0
-
-- **5 bulb styles:** classic, globe, candle, star, and heart
-- Color themes, **brightness and saturation**, running colors, and twinkling
-- **Audio Wave:** audio-reactive light pulses spreading outward from the center
-- Automatic bulb count based on screen width or manual setting (16–32)
-- Adjustable placement, cable sag, and cursor interaction
-- Configurable behavior over fullscreen applications
-- English and Russian UI, optional Windows startup, desktop shortcut
-
-### ⬇️ Download and run
-
-**[Download ChristmasLights.exe — v1.0.0](https://github.com/Horizongit228/ChristmasLights/releases/download/v1.0.0/ChristmasLights.exe)**
-
-1. Download the EXE from the official release.
-2. Save it to a permanent folder and double-click to launch.
-3. Use the **system tray** icon to open settings or exit.
-
-| Requirement | Details |
-| --- | --- |
-| OS | Windows 10 (build 19041+) or Windows 11 |
-| Architecture | x64 |
-| Package | Portable, self-contained EXE |
-| Size | 73.01 MiB |
-| .NET | No separate installation required |
-
-### 🔐 File verification
-
-SHA-256 of the published `ChristmasLights.exe`:
-
-```text
-00d072d5f05b1123c6e6005a221ad9030c2ca908c9130bc6b319d7d7db40776e
-```
-
-Verify it using PowerShell:
+Проверка SHA-256 в PowerShell:
 
 ```powershell
 Get-FileHash .\ChristmasLights.exe -Algorithm SHA256
 ```
 
-Compare the calculated hash with the value above. This release may be unsigned, which can trigger a Windows SmartScreen unknown-publisher warning. Download only from the official GitHub release.
-
-### 📌 Status and feedback
-
-- **v1.0.0 is available now.**
-- This version primarily targets the **main monitor**.
-- The project is actively developed. New development-preview features are **not part of the v1.0.0 download**, and no date for the next stable release has been announced.
-- Found a bug or have an idea? Open a [GitHub Issue](https://github.com/Horizongit228/ChristmasLights/issues).
-
-[Full v1.0.0 release notes](RELEASE_NOTES_v1.0.0.md)
+Нашёл ошибку? [Создай Issue](https://github.com/Horizongit228/ChristmasLights/issues). Подготовка следующего выпуска: [release/v1.3-preparation](https://github.com/Horizongit228/ChristmasLights/tree/release/v1.3-preparation).
 
 ---
 
-*The application source code is not published in this repository. This repository hosts release downloads, documentation, and issue tracking.*
+## 🌍 English
+
+**Christmas Lights** brings colorful, customizable fairy lights to the top of your Windows desktop. Enjoy subtle holiday ambience or light waves reacting to your music.
+
+### What's coming in v1.3
+
+- **Audio Wave 3.0** — rhythm-aware light waves with Classic fallback for videos and fullscreen apps.
+- **LightCast** — soft ambient glow around bulbs.
+- **CL Studio** — paint individual bulbs, mirror your patterns, make gradients and save custom designs.
+- **Color Lab** — per-color brightness and saturation, HEX controls, import/export via JSON.
+- **Infinity Garland** — coordinated multi-monitor overlays and continuous light waves.
+- **Aurora UI** — refined dark interface, color picker and system-tray controls.
+- **Lighting modes** — Twinkle, Wave, Breathe, Sparkles and Running Colors.
+- **Safeguards** — backup recovery for settings and designs.
+
+Choose from **Classic, Globe, Candle, Star and Heart** bulbs.
+
+### Download
+
+**[Official GitHub Releases](https://github.com/Horizongit228/ChristmasLights/releases)** · **[Download current v1.0.0 EXE](https://github.com/Horizongit228/ChristmasLights/releases/download/v1.0.0/ChristmasLights.exe)**
+
+> **v1.3 is in release preparation, not yet available as a public binary.** The existing v1.0.0 download does not contain the v1.3 features listed above.
+
+The app targets **Windows 10 (build 19041+) / Windows 11, x64**. Published portable EXEs include the .NET runtime. Audio processing and configuration storage are local.
+
+For issues and ideas, use [GitHub Issues](https://github.com/Horizongit228/ChristmasLights/issues). For the release candidate plan, see [v1.3 preparation](https://github.com/Horizongit228/ChristmasLights/tree/release/v1.3-preparation).
+
+---
+
+<div align="center">
+  <strong>Made to make your desktop a little warmer. ❤️🎄</strong><br/>
+  <sub>Christmas Lights · Windows desktop ambience · v1.3 in preparation</sub>
+</div>
