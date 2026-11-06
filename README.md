@@ -6,11 +6,11 @@
 <em>Bring a little holiday magic to your Windows desktop.</em></p>
 
 <p>
-  <a href="https://github.com/Horizongit228/ChristmasLights/releases"><strong>⬇️ Скачать / Download</strong></a>
+  <a href="https://github.com/Horizongit228/ChristmasLights/releases/tag/v1.3.0"><strong>⬇️ Скачать v1.3 / Download v1.3</strong></a>
   &nbsp;·&nbsp;
   <a href="https://github.com/Horizongit228/ChristmasLights/issues">🐛 Сообщить об ошибке</a>
   &nbsp;·&nbsp;
-  <a href="https://github.com/Horizongit228/ChristmasLights/tree/release/v1.3-preparation">🛠️ Подготовка v1.3</a>
+  <a href="https://github.com/Horizongit228/ChristmasLights/releases/tag/v1.3.0">🎉 Релиз v1.3</a>
 </p>
 
 <p><a href="#-русский">Русский</a> · <a href="#-english">English</a> · <a href="#-сравнение-версий">v1.0 vs v1.3</a></p>
@@ -18,7 +18,8 @@
 </div>
 
 > [!IMPORTANT]
-> **v1.3 готовится к публикации.** Заголовок проекта уже обновлён, но публичный EXE v1.3 ещё не загружен и не прошёл окончательную проверку на Windows. Сейчас доступна проверенная опубликованная **[v1.0.0](https://github.com/Horizongit228/ChristmasLights/releases/tag/v1.0.0)**. Новая версия появится на странице [Releases](https://github.com/Horizongit228/ChristmasLights/releases), когда будет готова.
+> [!TIP]
+> 🎉 **Christmas Lights v1.3.0 уже вышла!** [Скачать актуальную версию](https://github.com/Horizongit228/ChristmasLights/releases/download/v1.3.0/ChristmasLights.exe) · [Страница релиза](https://github.com/Horizongit228/ChristmasLights/releases/tag/v1.3.0). Предыдущий выпуск [v1.0.0](https://github.com/Horizongit228/ChristmasLights/releases/tag/v1.0.0) по-прежнему доступен.
 
 ---
 
@@ -45,11 +46,11 @@
 
 ### ⬇️ Скачать Christmas Lights
 
-**[Все выпуски / GitHub Releases](https://github.com/Horizongit228/ChristmasLights/releases)**
+**[🎄 Скачать Christmas Lights v1.3.0 (EXE)](https://github.com/Horizongit228/ChristmasLights/releases/download/v1.3.0/ChristmasLights.exe)** · [Все выпуски](https://github.com/Horizongit228/ChristmasLights/releases)
 
-**Пока доступна v1.0.0:** [скачать ChristmasLights.exe](https://github.com/Horizongit228/ChristmasLights/releases/download/v1.0.0/ChristmasLights.exe).
+**Актуальная версия — v1.3.0:** [официальный релиз](https://github.com/Horizongit228/ChristmasLights/releases/tag/v1.3.0).
 
-Как только релиз v1.3 будет опубликован, он появится на той же странице. Для Windows-файла рекомендуется скачивать **portable ZIP или EXE из официальных Releases**, а не архив исходников GitHub.
+В разделе **Assets** релиза v1.3.0 находится готовый `ChristmasLights.exe`. Скачивай программу из официальных Releases, а не из автоматически создаваемого GitHub архива исходников.
 
 **Как запустить:**
 1. Скачай `ChristmasLights.exe` или portable ZIP из опубликованного релиза.
@@ -66,7 +67,7 @@
 
 ### 🆕 Сравнение версий
 
-| Возможность | v1.0.0 | v1.3 (готовится) |
+| Возможность | v1.0.0 | v1.3.0 |
 | --- | :---: | :---: |
 | Гирлянда поверх окон | ✅ | ✅ |
 | 5 форм лампочек | ✅ | ✅ |
@@ -77,7 +78,7 @@
 | Сквозная гирлянда на нескольких экранах | — | ✅ |
 | Резервное восстановление JSON | — | ✅ |
 
-**Важное уточнение:** колонка v1.3 описывает разработанную версию, ещё проходящую финальное тестирование; эти функции **не входят в публичную v1.0.0**.
+**Важно:** функции в колонке v1.3.0 доступны в новом выпуске и **не входят в старую v1.0.0**.
 
 ### 🔐 Безопасность и конфиденциальность
 
@@ -89,7 +90,7 @@
 Get-FileHash .\ChristmasLights.exe -Algorithm SHA256
 ```
 
-Нашёл ошибку? [Создай Issue](https://github.com/Horizongit228/ChristmasLights/issues). Подготовка следующего выпуска: [release/v1.3-preparation](https://github.com/Horizongit228/ChristmasLights/tree/release/v1.3-preparation).
+Нашёл ошибку? [Создай Issue](https://github.com/Horizongit228/ChristmasLights/issues). [Что нового в v1.3](RELEASE_NOTES_v1.3.0.md).
 
 ---
 
@@ -97,7 +98,7 @@ Get-FileHash .\ChristmasLights.exe -Algorithm SHA256
 
 **Christmas Lights** brings colorful, customizable fairy lights to the top of your Windows desktop. Enjoy subtle holiday ambience or light waves reacting to your music.
 
-### What's coming in v1.3
+### What's new in v1.3
 
 - **Audio Wave 3.0** — rhythm-aware light waves with Classic fallback for videos and fullscreen apps.
 - **LightCast** — soft ambient glow around bulbs.
@@ -112,17 +113,17 @@ Choose from **Classic, Globe, Candle, Star and Heart** bulbs.
 
 ### Download
 
-**[Official GitHub Releases](https://github.com/Horizongit228/ChristmasLights/releases)** · **[Download current v1.0.0 EXE](https://github.com/Horizongit228/ChristmasLights/releases/download/v1.0.0/ChristmasLights.exe)**
+**[⬇️ Download Christmas Lights v1.3.0 EXE](https://github.com/Horizongit228/ChristmasLights/releases/download/v1.3.0/ChristmasLights.exe)** · [All releases](https://github.com/Horizongit228/ChristmasLights/releases)
 
-> **v1.3 is in release preparation, not yet available as a public binary.** The existing v1.0.0 download does not contain the v1.3 features listed above.
+> 🎉 **v1.3.0 is released and available for Windows.** Download the EXE from the [official GitHub release](https://github.com/Horizongit228/ChristmasLights/releases/tag/v1.3.0). The older [v1.0.0](https://github.com/Horizongit228/ChristmasLights/releases/tag/v1.0.0) remains available.
 
 The app targets **Windows 10 (build 19041+) / Windows 11, x64**. Published portable EXEs include the .NET runtime. Audio processing and configuration storage are local.
 
-For issues and ideas, use [GitHub Issues](https://github.com/Horizongit228/ChristmasLights/issues). For the release candidate plan, see [v1.3 preparation](https://github.com/Horizongit228/ChristmasLights/tree/release/v1.3-preparation).
+For issues and ideas, use [GitHub Issues](https://github.com/Horizongit228/ChristmasLights/issues). Read the [v1.3 release notes](RELEASE_NOTES_v1.3.0.md).
 
 ---
 
 <div align="center">
   <strong>Made to make your desktop a little warmer. ❤️🎄</strong><br/>
-  <sub>Christmas Lights · Windows desktop ambience · v1.3 in preparation</sub>
+  <sub>Christmas Lights · Windows desktop ambience · v1.3.0 released</sub>
 </div>
