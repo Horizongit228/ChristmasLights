@@ -1,0 +1,14 @@
+name: Feature request / Идея
+description: Suggest a new way to make the Windows desktop more cozy
+labels: [enhancement]
+body:
+  - type: textarea
+    id: idea
+    attributes:
+      label: What would you like to see? / Что добавить?
+    validations:
+      required: true
+  - type: textarea
+    id: experience
+    attributes:
+      label: How would it improve Christmas Lights?
