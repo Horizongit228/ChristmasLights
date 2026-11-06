@@ -35,12 +35,43 @@ Christmas Lights превращает верхний край рабочего �
 
 ## 🌍 English
 
-**Christmas Lights v1.3** brings cozy fairy lights to your Windows desktop with **Audio Wave 3.0**, ambient **LightCast**, a fully customizable **CL Studio**, per-color brightness and saturation, multi-monitor **Infinity Garland**, and polished **Aurora UI**.
+# 🎄 Christmas Lights v1.3 — Aurora & Audio Wave 3.0
 
-Choose your bulb shapes and palettes, save your custom designs, and let the lights dance to music.
+**A whole new level of holiday lights for Windows!** ✨
 
-**[Download ChristmasLights.exe v1.3.0](https://github.com/Horizongit228/ChristmasLights/releases/download/v1.3.0/ChristmasLights.exe)** from the [official release](https://github.com/Horizongit228/ChristmasLights/releases/tag/v1.3.0). Windows 10 (19041+) or Windows 11 x64. No separate .NET installation is needed for the portable build.
+Christmas Lights turns the top edge of your desktop into a colorful, animated garland. This release adds rhythm-aware light waves, soft ambient glow, a full bulb editor, and support for multiple monitors.
 
-Audio processing is local. You can report issues via [GitHub Issues](https://github.com/Horizongit228/ChristmasLights/issues).
+## ✨ What's new since v1.0
+
+- 🎵 **Audio Wave 3.0** — waves of light react to the beat of your music; the app automatically switches to its Classic response for videos and fullscreen apps.
+- 🌟 **LightCast** — subtle colored halos make your fairy lights feel more natural and atmospheric.
+- 🎨 **CL Studio** — create your very own garland, painting bulbs one by one, applying gradients and patterns, using mirror painting, and saving designs.
+- 🌈 **Per-color controls** — adjust the brightness and saturation of each palette color independently.
+- 🖥️ **Infinity Garland** — a continuous garland spanning multiple monitors with shared audio capture and light waves that travel across screens.
+- 💜 **Aurora UI** — refreshed dark interface, custom color picker, and improved editing tools.
+- 💡 **Improved lighting animations** — Breathe, Twinkle, Wave, Sparkles, and Running Colors.
+- 💾 **Design protection** — settings and design backups to help recover your work.
+
+## ⬇️ Download
+
+**[🎄 Download ChristmasLights.exe — v1.3.0](https://github.com/Horizongit228/ChristmasLights/releases/download/v1.3.0/ChristmasLights.exe)**
+
+The app is available from the [official GitHub Release](https://github.com/Horizongit228/ChristmasLights/releases/tag/v1.3.0). Look for `ChristmasLights.exe` under **Assets**.
+
+**System requirements:** Windows 10 (build 19041+) / Windows 11, x64. The portable EXE includes the required .NET runtime, so you don't need a separate .NET installation.
+
+> Before updating, close any running copy of Christmas Lights via its system tray icon. We recommend keeping an extra backup of your personal designs.
+
+## 🛡️ Security & privacy
+
+System audio is processed locally to create lighting effects. The executable may be unsigned; download it only from the official GitHub Releases page. You can check the file's SHA-256 hash in PowerShell:
+
+```powershell
+Get-FileHash .\ChristmasLights.exe -Algorithm SHA256
+```
+
+Found a bug or have a suggestion? Visit [GitHub Issues](https://github.com/Horizongit228/ChristmasLights/issues).
+
+---
 
 **Make your desktop a little warmer. ❤️🎄**
